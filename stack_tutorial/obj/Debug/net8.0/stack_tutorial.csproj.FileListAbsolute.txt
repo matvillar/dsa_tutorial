@@ -1,0 +1,14 @@
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/bin/Debug/net8.0/stack_tutorial
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/bin/Debug/net8.0/stack_tutorial.deps.json
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/bin/Debug/net8.0/stack_tutorial.runtimeconfig.json
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/bin/Debug/net8.0/stack_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/bin/Debug/net8.0/stack_tutorial.pdb
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.AssemblyInfoInputs.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.AssemblyInfo.cs
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.csproj.CoreCompileInputs.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/refint/stack_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.pdb
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/stack_tutorial.genruntimeconfig.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/stack_tutorial/obj/Debug/net8.0/ref/stack_tutorial.dll
