@@ -1,0 +1,15 @@
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/bin/Debug/net8.0/tree_tutorial
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/bin/Debug/net8.0/tree_tutorial.deps.json
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/bin/Debug/net8.0/tree_tutorial.runtimeconfig.json
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/bin/Debug/net8.0/tree_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/bin/Debug/net8.0/tree_tutorial.pdb
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.AssemblyInfoInputs.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.AssemblyInfo.cs
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.csproj.CoreCompileInputs.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.sourcelink.json
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/refint/tree_tutorial.dll
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.pdb
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/tree_tutorial.genruntimeconfig.cache
+/Users/matiasvillar/Desktop/dev/data_structure_tutorial/tree_tutorial/obj/Debug/net8.0/ref/tree_tutorial.dll
